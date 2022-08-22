@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <table border="1">
+        <tr>
+            t
+            <th>BÁSICO</th>
+            <th>PADRÃO</th>
+            <th>PREMIUM</th>
+        </tr>
+
+
+        <tr>
+            <th scope="row">Preço do mês</th>
+            <td>R$25,90</td>
+            <td>R$39,90</td>
+            <td>R$55,90</td>
+        </tr>
+
+        <tr>
+            <th scope="row">Qualidade do vídeo</th>
+            <td>Boa</td>
+            <td>Melhor</td>
+            <td>Superior</td>
+        </tr>
+
+        <tr>
+            <th scope="row">Resolução</th>
+            <td>480p</td>
+            <td>1080p</td>
+            <td>4K+HDR</td>
+        </tr>
+
+
+        <tr>
+            <th scope="row">Assista na TV, computador, celular ou tablet </th>
+            <td>&#10004;</td>
+            <td>&#10004;</td>
+            <td>&#10004;</td>
+        </tr>
+    </table>
+</body>
+</html>
